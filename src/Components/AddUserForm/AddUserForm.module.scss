@@ -1,0 +1,41 @@
+
+.inputFields {
+    padding-bottom: 14px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    gap:20px
+}
+
+.textInput{
+    display: flex;
+    font-family: Gotham !important;
+    border-radius: 10px !important;
+}
+
+.formTitle {
+    display: flex;
+    justify-content: center;
+    color: #1976d2 !important;
+    font-size: 23px !important;
+    font-weight: bold !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+.btnPanel{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly !important;
+    padding-bottom: 20px !important;
+}
+
+.divider {
+    margin-left: 25px !important;
+    margin-right: 25px !important;
+    background-color: #1976d2 !important;
+}
+
+.buttons {
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+}
