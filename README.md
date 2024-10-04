@@ -4,10 +4,15 @@ This application stores and displays users data in the form of a table. You can 
 
 ## Table of Contents
 
+- [Live Demo](https://user-application-pnd8q97u4-shashank-sangales-projects.vercel.app/)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Tips](#tips)
+
+## Live Demo
+
+Check out the live version of the app [here](https://user-application-pnd8q97u4-shashank-sangales-projects.vercel.app/)
 
 ## Features
 
@@ -27,7 +32,7 @@ This application stores and displays users data in the form of a table. You can 
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/01shashank/user-application.git
 
 2. **Install the dependecies:**
    npm install
